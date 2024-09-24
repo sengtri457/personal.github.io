@@ -1190,6 +1190,7 @@ transition: all 0.4s ease;
             font-size: 4rem;
         }.title-about h2{
             font-size: 1.5rem;
+            top: 35%;
         }.logo-about{
             width: 250px;
             height: 250px;
@@ -1208,6 +1209,7 @@ transition: all 0.4s ease;
         font-size: 3.5rem;
     }.title-quality h2{
         font-size: 1rem;
+        letter-spacing: 0;
     }.education{
         padding: 2rem 1rem;
         grid-template-columns: repeat(1, 250px);
@@ -1232,8 +1234,9 @@ transition: all 0.4s ease;
     } .title-skill-rate h1{
         font-size: 5rem;
     }.title-skill-rate h2{
-        font-size: 2rem;
-        left: 120px;
+        font-size: 1.5rem;
+        left: 105px;
+        top: 35%;
     }
     .service{
         padding: 1rem;
@@ -1273,7 +1276,7 @@ transition: all 0.4s ease;
         font-size: 2.7rem;
     }.title-price h2{
         font-size: 1.1rem;
-        top: 40%;
+        top: 35%;
     left: 120px;    }
 
     .gallary{
@@ -1291,7 +1294,7 @@ transition: all 0.4s ease;
 
 
     .menu-gallary{
-        width: 300px;
+        width: 350px;
         gap: 0.5rem;
     }
     .btn-menu{
@@ -1314,13 +1317,13 @@ transition: all 0.4s ease;
         font-size: 3rem;
     }.title-review h2{
         font-size: 1.2rem;
-    left:100px;
+    left:85px;
 top: 35%;   }
     .title-blog h1{
         font-size: 3rem;
     }.title-blog h2{
         font-size: 1rem;
-    left:100px;
+    left:90px;
 top: 35%;   }
 
 
